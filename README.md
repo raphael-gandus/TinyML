@@ -1,0 +1,2 @@
+# TinyML
+Projets pratiques TinyML
