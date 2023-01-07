@@ -6,7 +6,7 @@ Sauf qu'au lieu d'enregistrer des mouvements de coups de poings (punch et flex) 
 
 Cependant pour l'emoji no je n'ai pas fait une croix car cela ressemblait trop au yes donc j'ai fait deux lignes horizontales de gauche à droite puis de droite à gauche.
 
-Vous trouverez en pièce jointe le fichier "model.h" d'entrainement, le code source IMU_Classifier.ino utilisé pour le test et les questions, et le fichier colab utilisé pour créer "model.h".
+Vous trouverez dans Projet 1 le fichier "model.h" d'entrainement avec les fichiers "yes.csv" et "no.csv", le code source IMU_Classifier.ino utilisé pour le test et les questions, et le fichier colab utilisé pour créer "model.h".
 
 Résultat obtenu : 
 
