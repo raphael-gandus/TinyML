@@ -12,3 +12,10 @@ Résultat obtenu :
 ![image](https://user-images.githubusercontent.com/95090973/211158129-adf6e45c-cf85-405b-a54f-a15fd0678732.png)
 
 
+
+# Projet 2 | Raphaël GANDUS
+
+(en cours)
+
+Fait : data acquisition
+
