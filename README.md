@@ -9,4 +9,6 @@ Cependant pour l'emoji no je n'ai pas fait une croix car cela ressemblait trop a
 Vous trouverez dans Projet 1 le fichier "model.h" d'entrainement avec les fichiers "yes.csv" et "no.csv", le code source IMU_Classifier.ino utilisé pour le test et les questions, et le fichier colab utilisé pour créer "model.h".
 
 Résultat obtenu : 
+![image](https://user-images.githubusercontent.com/95090973/211158129-adf6e45c-cf85-405b-a54f-a15fd0678732.png)
+
 
