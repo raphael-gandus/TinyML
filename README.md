@@ -13,9 +13,11 @@ Résultat obtenu :
 
 
 
-# Projet 2 | Raphaël GANDUS
+# Projet 2 | Raphaël GANDUS et Hicham GHANEM
 
-(en cours)
+Avec mon camarade Hicham nous avons réussi à entrainer un modèle grâce à la plateforme Edge Impulse qui fonctionne à peu près correctement mais il manque sûrement plusieurs dizaines de minutes d'audio pour l'entrainement que nous n'avons pas eu le temps d'enregistrer. Vous trouverez dans Projet 2 le fichier flash pour l'Arduino produit par Edge Impulse.
 
-Fait : data acquisition
+Résultat : 
+![image](https://user-images.githubusercontent.com/95090973/211208929-a826238c-f601-4252-9b21-e2ba04412582.png)
+
 
