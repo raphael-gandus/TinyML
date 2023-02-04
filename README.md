@@ -42,3 +42,4 @@ Enfin, voici un exemple de live classification sur une portion de ma peau que le
 ![Mobile client - Edge Impulse](https://user-images.githubusercontent.com/95090973/216775498-e3302f95-9340-4bd9-ac7b-611708dc1f3b.png)
 
 
+Comme j'ai utilisé seulement Edge Impulse pour ce projet, je n'ai pas de code spécifique à fournir. L'utilisation de Google Collab est inutile car elle servirait seulement à reproduire manuellement le modèle créé par Edge Impulse. Enfin malheuresement à cause de l'impossibilité d'utiliser la caméra du kit arduino, je n'ai pas pu réaliser ce projet sur l'arduino.
